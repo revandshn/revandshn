@@ -1,5 +1,10 @@
 ### Hi there 👋
+Welcome to my github profile
 
+- 🔭 I’m currently working as IT Software Developer using .NET Framework, WebAPI and Native Android Java
+- 🌱 I’m currently learning Java SpringBoot
+
+Thanks for visiting
 <!--
 **revandshn/revandshn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
